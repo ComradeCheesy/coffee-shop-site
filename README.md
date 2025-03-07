@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- As the coffee shop is based online, having another form to order & having pictures pop up when we hover over menu items could be useful.
