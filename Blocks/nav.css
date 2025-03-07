@@ -26,6 +26,7 @@
   text-decoration: none;
   color: #000;
   transition: opacity 0.3s;
+  cursor: pointer;
 }
 
 .nav__link:hover {
