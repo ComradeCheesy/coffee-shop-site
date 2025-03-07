@@ -36,6 +36,7 @@
   border: none;
   margin-bottom: 32px;
   color: #fff;
+  transition: background-color 0.3s;
 }
 
 .form__button:hover {
