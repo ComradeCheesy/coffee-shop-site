@@ -59,3 +59,9 @@
   line-height: 20px;
   font-weight: 500;
 }
+
+.form__fieldset-checkbox {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}

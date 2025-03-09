@@ -15,14 +15,13 @@
   justify-content: center;
   gap: 40px;
   margin: 0;
-  min-width: 1100px;
-  max-width: 1600px;
   list-style: none;
 }
 
 .recipes__iframe {
   width: 480px;
   height: 273px;
+  border: none;
 }
 
 .recipes__title {
