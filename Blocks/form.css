@@ -38,6 +38,10 @@
   color: #fff;
   transition: background-color 0.3s;
   cursor: pointer;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .form__button:hover {
@@ -50,18 +54,8 @@
   height: 20px;
 }
 
-.form__label_type_checkbox {
+.form__fieldset_type_checkbox {
   display: flex;
   justify-content: center;
   gap: 12px;
-  font-family: "inter", arial, sans-serif;
-  font-size: 16px;
-  line-height: 20px;
-  font-weight: 500;
-}
-
-.form__fieldset-checkbox {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
 }
